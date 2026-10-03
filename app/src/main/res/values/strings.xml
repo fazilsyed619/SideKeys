@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SideKeys</string>
+    <string name="accessibility_description">Floating volume and power controls</string>
+</resources>
